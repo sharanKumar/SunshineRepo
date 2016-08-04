@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.sharan_s.sunshine.DetailActivity">
+    <item
+        android:id="@+id/action_detail_settings"
+        android:orderInCategory="100"
+        android:title="@string/title_activity_detail"
+        app:showAsAction="never" />
+</menu>
